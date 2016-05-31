@@ -1,2 +1,2 @@
 # hello_world
-my first repository
+I like node java web or anything about java.
